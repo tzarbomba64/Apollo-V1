@@ -6,3 +6,6 @@ Because I said so.
 Nothing, it's hot garbage.
 # How to use
 Just check the python scripts I guess, I'm really tired right now. Make sre to keep both scrips in the downloads folder.
+
+# Github repository
+https://github.com/tzarbomba64/Apollo-V1/tree/main
